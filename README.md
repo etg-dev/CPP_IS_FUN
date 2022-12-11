@@ -5,5 +5,5 @@ But don't forget, programming is not about syntax, it's about logic and how you 
 
 Here you can find some simple apps with perfect usage for beginners
 
-#with all due respect erfan taghinia 
-#erfant.dev
+# with all due respect erfan taghinia 
+# erfant.dev
